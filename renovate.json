@@ -4,6 +4,25 @@
   ],
   "npm": {
     "separateMinorPatch": true,
-    "automerge": true
+    "packageRules": [
+      {
+        "updateTypes": ["mejor"],
+        "automerge": true,
+        "unpublishSafe": true,
+        "prCreation": "not-pending"
+      },
+      {
+        "updateTypes": ["minor"],
+        "automerge": true,
+        "unpublishSafe": true,
+        "prCreation": "not-pending"
+      },
+      {
+        "updateTypes": ["patch"],
+        "automerge": true,
+        "unpublishSafe": true,
+        "prCreation": "not-pending"
+      }
+    ]
   }
 }
