@@ -6,7 +6,7 @@
     "separateMinorPatch": true,
     "packageRules": [
       {
-        "updateTypes": ["mejor"],
+        "updateTypes": ["major"],
         "automerge": true,
         "unpublishSafe": true,
         "prCreation": "not-pending"
