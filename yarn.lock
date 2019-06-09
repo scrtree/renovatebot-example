@@ -1089,10 +1089,10 @@ babel-plugin-transform-strict-mode@^6.24.1:
     babel-runtime "^6.22.0"
     babel-types "^6.24.1"
 
-babel-plugin-transform-vue-jsx@3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-transform-vue-jsx/-/babel-plugin-transform-vue-jsx-3.5.0.tgz#6b1ad29351ad753919403675f0bf8b2a43e17671"
-  integrity sha512-5vCg8K7aiiLwrFJ45ZF/b4cIiFpGAoYL5uNZpbgiZFptBc5LkueBCQXTVexrd1IFlpTV7XndqFjtWjcJ54JGUQ==
+babel-plugin-transform-vue-jsx@3.5.1:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-vue-jsx/-/babel-plugin-transform-vue-jsx-3.5.1.tgz#aa1f4416e4bc835db9a7a1180ae6e74c24a2e1d1"
+  integrity sha512-wwn3m/7/QbP1DlhTAXgLFKmu2kNm4OlkFKT4mSfCETAZMhBbbX6Jq85rdMirvVr2BXOJSSa52M5VbzrwMZwfYg==
   dependencies:
     esutils "^2.0.2"
 
