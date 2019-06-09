@@ -8322,10 +8322,10 @@ vue-loader@13.3.0:
     vue-style-loader "^3.0.0"
     vue-template-es2015-compiler "^1.6.0"
 
-vue-style-loader@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/vue-style-loader/-/vue-style-loader-3.0.1.tgz#c8b639bb2f24baf9d78274dc17e4f264c1deda08"
-  integrity sha1-yLY5uy8kuvnXgnTcF+TyZMHe2gg=
+vue-style-loader@3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/vue-style-loader/-/vue-style-loader-3.0.3.tgz#623658f81506aef9d121cdc113a4f5c9cac32df7"
+  integrity sha512-P/ihpaZKU23T1kq3E0y4c+F8sbm1HQO69EFYoLoGMSGVAHroHsGir/WQ9qUavP8dyFYHmXenzHaJ/nqd8vfaxw==
   dependencies:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"

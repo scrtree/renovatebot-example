@@ -59,7 +59,7 @@
     "url-loader": "0.5.9",
     "vue-jest": "1.0.2",
     "vue-loader": "13.3.0",
-    "vue-style-loader": "3.0.1",
+    "vue-style-loader": "3.0.3",
     "vue-template-compiler": "2.5.2",
     "webpack": "3.6.0",
     "webpack-bundle-analyzer": "3.3.2",
