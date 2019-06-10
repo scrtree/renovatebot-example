@@ -8209,10 +8209,10 @@ vue-jest@1.0.3:
     tsconfig "^7.0.0"
     vue-template-es2015-compiler "^1.5.3"
 
-vue-loader@13.3.0:
-  version "13.3.0"
-  resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-13.3.0.tgz#3bf837d490ba5dea6fc07e0835ffa6c688c8af33"
-  integrity sha512-ACslFXI52qxaWSYoyU3mNq8rcTPCP0nNlQSwWuIZCrBJbWLRtYrCdqW2IfGLZf0NuQLq3s49J1xFrApORamJtA==
+vue-loader@13.7.3:
+  version "13.7.3"
+  resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-13.7.3.tgz#e07440f78230a639d00ada4da7b96d0e9d62037f"
+  integrity sha512-ACCwbfeC6HjY2pnDii+Zer+MZ6sdOtwvLmDXRK/BoD3WNR551V22R6KEagwHoTRJ0ZlIhpCBkptpCU6+Ri/05w==
   dependencies:
     consolidate "^0.14.0"
     hash-sum "^1.0.2"
