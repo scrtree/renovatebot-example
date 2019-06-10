@@ -56,7 +56,7 @@
     "semver": "5.7.0",
     "shelljs": "0.7.8",
     "uglifyjs-webpack-plugin": "1.1.8",
-    "url-loader": "0.5.9",
+    "url-loader": "0.6.2",
     "vue-jest": "1.0.3",
     "vue-loader": "13.3.0",
     "vue-style-loader": "3.0.3",
