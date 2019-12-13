@@ -13,7 +13,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vue": "2.6.10"
+    "vue": "2.6.11"
   },
   "devDependencies": {
     "autoprefixer": "9.7.3",
@@ -60,7 +60,7 @@
     "vue-jest": "3.0.5",
     "vue-loader": "15.7.2",
     "vue-style-loader": "4.1.2",
-    "vue-template-compiler": "2.6.10",
+    "vue-template-compiler": "2.6.11",
     "webpack": "4.41.2",
     "webpack-bundle-analyzer": "3.6.0",
     "webpack-dev-server": "3.9.0",
