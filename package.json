@@ -38,7 +38,7 @@
     "eslint-import-resolver-webpack": "0.12.0",
     "eslint-loader": "3.0.3",
     "eslint-plugin-import": "2.19.1",
-    "eslint-plugin-vue": "6.1.1",
+    "eslint-plugin-vue": "6.1.2",
     "extract-text-webpack-plugin": "3.0.2",
     "file-loader": "5.0.2",
     "friendly-errors-webpack-plugin": "1.7.0",
